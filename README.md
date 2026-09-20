@@ -1,28 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=190&section=header&text=DEVI%20SREE%20M&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=16"/>
+DEVELOPER PROFILE
+
+DEVI SREE M
+Aspiring Software Developer
 
 <br>
 
-`● LEARNING`   `● BUILDING`   `● SOLVING`   `● IMPROVING`
+🎓 FIELD	💻 FOCUS	🚀 APPROACH
+Information Technology	Software Development	Learn → Build → Improve
 
-<br><br>
+<br>
 
-<a href="https://github.com/DeviSreeTech-0907">
-<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&label=PROFILE%20VISITS&color=2563EB&style=flat"/>
-</a>
+C · Python · Java · HTML · CSS
 
-<a href="https://www.linkedin.com/in/devi-sree-m-797614379/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://leetcode.com/u/DeviSreeCodes/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-</a>
+Currently: Building projects • Practicing DSA • Exploring AI
 
 </div>
-
----
 
 # `01` // WHO AM I?
 
