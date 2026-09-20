@@ -1,176 +1,125 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Devi+Sree+M+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Building+Projects+%F0%9F%9A%80;Solving+Problems+%F0%9F%A7%A9;Learning+Python+%26+DSA+%F0%9F%90%8D;Exploring+AI+%26+Data+Science+%F0%9F%A4%96" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F2A44,100:2563EB&height=200&section=header&text=DEVI%20SREE%20M&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <br>
 
-LEARN ✦ CODE ✦ BUILD ✦ IMPROVE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Student;Aspiring+Software+Developer;Building+Practical+Projects;Strengthening+DSA+%26+Problem+Solving;Exploring+AI+%26+Data+Science;Always+Learning+%7C+Always+Building" alt="Professional Typing Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-IN%20PROGRESS-7C3AED?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/DeviSreeTech-0907">
+<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
+</a>
 
 </div>
 
-# `01` // WHO AM I?
+---
 
+## `01` // WHO AM I?
 
-### 👋 Hi, I'm DEVI SREE M
+I am **Devi Sree M**, an Information Technology student and aspiring Software Developer.
 
-💻 **Aspiring Software Developer**
+I enjoy learning programming, solving problems, building practical projects, and exploring emerging technologies.
 
-🎓 **Information Technology Student**
+### CURRENT FOCUS
 
-🚀 **Passionate about building practical projects**
-
-🧩 **Interested in programming & problem solving**
-
-📚 **Continuously learning new technologies**
+```text
+Programming Fundamentals
+        ↓
+Problem Solving
+        ↓
+Data Structures & Algorithms
+        ↓
+Practical Projects
+        ↓
+AI & Data Science
+        ↓
+Software Development
+```
 
 ---
 
-# `02` // MY DEVELOPER JOURNEY
+## `02` // TECHNOLOGY STACK
 
 <div align="center">
 
-### 🎓 START
-
-**Information Technology Student**
-
-⬇️
-
-### 💻 BUILD THE FOUNDATION
-
-Learning programming fundamentals
-`C` • `Python` • `Java`
-
-⬇️
-
-### 🧩 SHARPEN THE MIND
-
-Improving logical thinking, problem solving
-and Data Structures & Algorithms
-
-⬇️
-
-### 🚀 BUILD
-
-Turning knowledge into practical projects
-
-⬇️
-
-### 🤖 EXPLORE
-
-Exploring AI, Data Science
-and emerging technologies
-
-⬇️
-
-### ⚡ IMPROVE
-
-Learning from mistakes, debugging
-and continuously improving
-
-⬇️
-
-### 🏁 DESTINATION
-
-**Skilled Software Developer**
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,github,vscode&perline=8"/>
 
 </div>
 
----
+<br>
 
-# `03` // TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,github,vscode" />
-
-</div>
-
-### 💻 PROGRAMMING
-
-`C` `Python` `Java`
-
-### 🌐 WEB TECHNOLOGIES
-
-`HTML` `CSS`
-
-### 🛠️ TOOLS
-
-`Git` `GitHub` `VS Code`
+| Category                | Technologies            |
+| :---------------------- | :---------------------- |
+| **Programming**         | C · Python · Java       |
+| **Web**                 | HTML · CSS              |
+| **Tools**               | Git · GitHub · VS Code  |
+| **Currently Exploring** | DSA · AI · Data Science |
 
 ---
 
-# `04` // PROJECT GARAGE
+## `03` // PROJECTS
 
-### 📊 SMART STUDENT ACADEMIC MANAGEMENT SYSTEM
+### `01` — SMART STUDENT ACADEMIC MANAGEMENT SYSTEM
 
-A C-based academic management system designed to manage student academic information.
+**C-based academic management system** designed to manage student academic information.
 
-**Features**
+**Core Features**
 
-* Student record management
-* Marks management
-* Result calculation
-* Class statistics
-* Data storage
+`Student Records` · `Marks` · `Results` · `Class Statistics` · `Data Storage`
 
 **Technology:** `C`
 
 ---
 
-### 🤖 STUDYGENIE
+### `02` — STUDYGENIE
 
-An AI-powered learning project designed to assist students with study-related tasks.
+AI-powered learning project designed to assist students with study-related tasks.
 
-**Highlights**
+**Focus**
 
-* AI-powered interaction
-* Learning assistance
-* Python implementation
-* Prompt-based functionality
-
-**Technology:** `Python` `AI`
+`Python` · `AI` · `Prompt Engineering`
 
 ---
 
-### 📝 INTERACTIVE STUDENT SURVEY FORM
+### `03` — INTERACTIVE STUDENT SURVEY FORM
 
-A responsive web-based student survey application.
+Responsive web-based student survey application with a simple and user-friendly interface.
+
+**Focus**
+
+`HTML` · `CSS` · `Responsive Design`
+
+---
+
+### `04` — BLOG APPLICATION
+
+Full-stack web application for creating and managing blogs.
 
 **Features**
 
-* Interactive form
-* Student information collection
-* Responsive design
-* User-friendly interface
+`Authentication` · `CRUD` · `Search` · `Category Filtering` · `Blog Management`
 
-**Technology:** `HTML` `CSS`
+**Technology**
 
----
-
-### 📰 BLOG APPLICATION
-
-A full-stack web application for creating and managing blogs.
-
-**Features**
-
-* User authentication
-* Blog creation
-* CRUD operations
-* Search
-* Category filtering
-* Blog management
-
-**Technology:** `JavaScript` `Node.js` `Express.js` `MongoDB`
+`JavaScript` · `Node.js` · `Express.js` · `MongoDB`
 
 ---
 
-# `05` // ACHIEVEMENT UNLOCKED
+## `04` // ACHIEVEMENT
 
 <div align="center">
 
-## 🥉 THIRD PRIZE
+<img src="https://img.shields.io/badge/🥉%20THIRD%20PRIZE-ZENDRIX%202K26-2563EB?style=for-the-badge"/>
 
-### Technical Competition – Paper Presentation
+### Technical Competition — Paper Presentation
 
 **ZENDRIX 2K26**
 
@@ -181,123 +130,98 @@ Arunachala College of Engineering for Women
 
 ---
 
-# `06` // CERTIFICATION VAULT
+## `05` // CERTIFICATIONS
 
 ### IBM
 
-☁️ **Introduction to Cloud Computing**
-
-🤖 **Foundations in Generative AI**
-
-⚖️ **Ethical Considerations for Generative AI**
-
-🧠 **Introduction to Large Language Models**
-
-✨ **Mastering the Art of Prompting**
-
-🎨 **Introduction to Generative AI and Content Creation**
-
-🚀 **Getting Started with Generative AI**
-
-✍️ **Using Prompt Writing Techniques to Craft a LinkedIn Profile**
+* Introduction to Cloud Computing
+* Foundations in Generative AI
+* Ethical Considerations for Generative AI
+* Introduction to Large Language Models
+* Mastering the Art of Prompting
+* Introduction to Generative AI and Content Creation
+* Getting Started with Generative AI
+* Using Prompt Writing Techniques to Craft a LinkedIn Profile
 
 ---
 
-# `07` // CURRENTLY LEARNING
+## `06` // CURRENTLY LEARNING
 
 <div align="center">
 
-`🐍 Python`
+`PYTHON`
 
-↓
+**↓**
 
-`🧩 Data Structures & Algorithms`
+`DATA STRUCTURES & ALGORITHMS`
 
-↓
+**↓**
 
-`🧠 Problem Solving`
+`PROBLEM SOLVING`
 
-↓
+**↓**
 
-`🤖 AI & Data Science`
+`AI & DATA SCIENCE`
 
-↓
+**↓**
 
-`💻 Software Development`
+`SOFTWARE DEVELOPMENT`
 
 </div>
 
 ---
 
-# `08` // CAREER GOALS
-
-**01** → 🧠 **Strengthen Problem Solving**
-Build strong logical thinking and programming fundamentals.
-
-**02** → 💻 **Master DSA**
-Improve Data Structures, Algorithms and coding skills.
-
-**03** → 🐍 **Grow with Python**
-Strengthen Python and apply it to practical projects.
-
-**04** → 🤖 **Explore AI & Data Science**
-Learn AI concepts, data analysis and emerging technologies.
-
-**05** → 🚀 **Build Real-World Projects**
-Create meaningful projects that solve practical problems.
-
-**06** → 🌐 **Become a Skilled Software Developer**
-Keep learning, building and improving.
-
-<br>
+## `07` // CAREER DIRECTION
 
 <div align="center">
 
-`LEARN` → `PRACTICE` → `BUILD` → `SOLVE` → `IMPROVE` → `GROW`
+### `01` — BUILD THE FOUNDATION
+
+Programming Fundamentals
+
+↓
+
+### `02` — MASTER PROBLEM SOLVING
+
+DSA · Algorithms · Logical Thinking
+
+↓
+
+### `03` — BUILD
+
+Practical & Real-World Projects
+
+↓
+
+### `04` — EXPLORE
+
+AI · Data Science · Emerging Technologies
+
+↓
+
+### `05` — GROW
+
+Become a Skilled Software Developer
 
 </div>
 
 ---
 
-# `09` // MY DEVELOPMENT PROCESS
+## `08` // DEVELOPMENT MINDSET
 
 <div align="center">
 
-### 💡 IDEA
-
-↓
-
-### 📚 LEARN
-
-↓
-
-### 💻 CODE
-
-↓
-
-### 🐛 DEBUG
-
-↓
-
-### 🚀 BUILD
-
-↓
-
-### 🔧 IMPROVE
-
-↓
-
-### 🔁 REPEAT
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Practice+%E2%86%92+Build;Build+%E2%86%92+Debug+%E2%86%92+Improve;Improve+%E2%86%92+Repeat+%E2%86%92+Grow" alt="Development Animation"/>
 
 </div>
 
 ---
 
-# `10` // GITHUB STATS
+## `09` // GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <br><br>
 
@@ -307,43 +231,17 @@ Keep learning, building and improving.
 
 ---
 
-# `11` // CONTRIBUTION GRAPH
+## `10` // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2563EB/DeviSreeTech-0907" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/2563EB/DeviSreeTech-0907" alt="GitHub Contributions"/>
 
 </div>
 
 ---
 
-# `12` // CODING MINDSET
-
-<div align="center">
-
-### `DON'T JUST LEARN CODE.`
-
-### `BUILD WITH IT.`
-
-<br>
-
-**Learn**
-↓
-**Experiment**
-↓
-**Fail**
-↓
-**Debug**
-↓
-**Understand**
-↓
-**Build Better**
-
-</div>
-
----
-
-# `13` // CONNECT WITH ME
+## `11` // CONNECT
 
 <div align="center">
 
@@ -365,16 +263,10 @@ Keep learning, building and improving.
 
 <div align="center">
 
-### 🚀 `SYSTEM STATUS : LEARNING`
-
-**Learn. Build. Debug. Improve. Repeat.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&label=PROFILE%20VISITS&color=2563EB&style=flat"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;See+you+in+the+next+commit." alt="Closing Animation"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F2A44,100:020617&height=130&section=footer"/>
 
 </div>
