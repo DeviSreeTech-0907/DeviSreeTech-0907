@@ -26,29 +26,17 @@
 
 I am an **Information Technology student** passionate about programming, problem solving, and building practical software projects.
 
-* 🎓 Information Technology Student
-* 💻 Aspiring Software Developer
-* 🚀 Passionate about building practical projects
-* 🧩 Improving problem-solving and programming skills
-* 📚 Continuously learning new technologies
-
 ---
 
 # 🧑‍💻 ABOUT ME
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🎓  Information Technology Student                       │
-│   💻  Aspiring Software Developer                          │
-│   🚀  Project-Based Learner                                │
-│   🧩  Problem Solving Enthusiast                           │
-│   📚  Continuous Learner                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+🎓 **Information Technology Student**
+💻 **Aspiring Software Developer**
+🚀 **Passionate about building practical projects**
+🧩 **Interested in programming & problem solving**
+📚 **Continuously learning new technologies**
 
-I enjoy transforming ideas into working projects and continuously improving my technical and problem-solving abilities.
+> **My focus:** `LEARN` → `BUILD` → `SOLVE` → `IMPROVE`
 
 ---
 
@@ -189,17 +177,7 @@ Arunachala College of Engineering for Women
 
 # 📚 CURRENTLY LEARNING
 
-```text
-Python
-   ↓
-Problem Solving
-   ↓
-Data Structures & Algorithms
-   ↓
-AI & Data Science
-   ↓
-Software Development
-```
+`Python` • `Data Structures & Algorithms` • `Problem Solving` • `AI & Data Science` • `Software Development`
 
 ---
 
@@ -239,27 +217,27 @@ Software Development
 
 ### `IDEA`
 
-⬇
+↓
 
 ### `LEARN`
 
-⬇
+↓
 
 ### `CODE`
 
-⬇
+↓
 
 ### `DEBUG`
 
-⬇
+↓
 
 ### `BUILD`
 
-⬇
+↓
 
 ### `IMPROVE`
 
-⬇
+↓
 
 ### `REPEAT`
 
