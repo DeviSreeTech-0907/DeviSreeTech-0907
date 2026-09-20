@@ -1,100 +1,92 @@
 <div align="center">
 
-# 🌸 DEVI SREE M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Devi%20Sree%20M&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-### `Aspiring Software Developer`
+### `aspiring software developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=700&lines=Hey%2C+Welcome+to+my+GitHub!;Aspiring+Software+Developer;Code+%7C+Create+%7C+Learn;Turning+Ideas+into+Projects+%F0%9F%9A%80" />
+*building little things that make me better at building bigger things.*
 
 <br>
 
-<img src="https://img.shields.io/badge/Developer-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-FF4FA3?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Building-FF69B4?style=for-the-badge&logo=rocket&logoColor=white"/>
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)](https://github.com/DeviSreeTech-0907)
+[![LeetCode](https://img.shields.io/badge/LeetCode-18181B?style=flat-square\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/DeviSreeCodes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square\&logo=linkedin\&logoColor=70A5FD)](https://www.linkedin.com/in/devi-sree-m-797614379/)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## `01` — a little about me
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🎓 Information Technology Student          │
-│  💻 Aspiring Software Developer              │
-│  🚀 Building practical projects              │
-│  🧠 Improving problem-solving skills         │
-│  📚 Learning and exploring new technologies  │
-│                                              │
-╰──────────────────────────────────────────────╯
+I'm Devi Sree M.
+
+An Information Technology student
+with a growing love for programming,
+problem solving and building things.
+
+Currently learning,
+experimenting,
+and turning ideas into projects.
 ```
 
 ---
 
-## 💻 Tech Stack
+## `02` — things I work with
 
 <div align="center">
 
-### 👩‍💻 Programming
+`C` · `Python` · `Java` · `HTML` · `CSS`
 
-<img src="https://skillicons.dev/icons?i=c,python,java" />
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+`Git` · `GitHub` · `VS Code`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — selected projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Smart Student Academic Management System
+### 🎓 Smart Student Academic System
 
-A C-based academic management system for managing student records, marks, results and class statistics.
+A C-based system for managing student records, marks, results and class statistics.
 
-**Tech:** `C`
+`C`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 StudyGenie
 
-An AI-powered learning project designed to assist students with study-related tasks.
+An AI-powered learning project created to support students with study-related tasks.
 
-**Tech:** `Python` `AI`
+`Python` · `AI`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 Interactive Student Survey Form
+### 📝 Interactive Survey Form
 
-A responsive student survey website created using HTML and CSS.
+A simple responsive student survey website.
 
-**Tech:** `HTML` `CSS`
+`HTML` · `CSS`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📰 Blog Application
 
-A full-stack blog application with authentication, CRUD operations, search and category filtering.
+A full-stack blogging platform with authentication, CRUD operations, search and category filtering.
 
-**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB`
+`JavaScript` · `Node.js` · `Express.js` · `MongoDB`
 
 </td>
 </tr>
@@ -102,114 +94,67 @@ A full-stack blog application with authentication, CRUD operations, search and c
 
 ---
 
-## 🏆 Achievements
+## `04` — achievements
+
+> 🥉 **Third Prize — Technical Paper Presentation**
+> **ZENDRIX 2K26**
+> Department of Information Technology
+
+---
+
+## `05` — certifications
+
+**IBM**
+
+☁️ Introduction to Cloud Computing
+🤖 Foundations in Generative AI
+⚖️ Ethical Considerations for Generative AI
+🧠 Introduction to Large Language Models
+✍️ Mastering the Art of Prompting
+🤖 Introduction to Generative AI and Content Creation
+💡 Getting Started with Generative AI
+📝 Using Prompt Writing Techniques
+
+---
+
+## `06` — currently learning
 
 <div align="center">
 
-### 🥉 Third Prize — Technical Competition
-
-**Paper Presentation | ZENDRIX 2K26**
-
-Department of Information Technology
-Arunachala College of Engineering for Women
+🌱 **DSA**   ·   **Python**   ·   **Problem Solving**
+**AI**   ·   **Data Science**   ·   **Software Development**
 
 </div>
 
 ---
 
-## 📜 Certifications & Digital Credentials
-
-### IBM
-
-| Certification                                         | Area               |
-| ----------------------------------------------------- | ------------------ |
-| ☁️ Introduction to Cloud Computing                    | Cloud              |
-| 🤖 Foundations in Generative AI                       | Generative AI      |
-| ⚖️ Ethical Considerations for Generative AI           | AI Ethics          |
-| 🧠 Introduction to Large Language Models              | LLM                |
-| ✍️ Mastering the Art of Prompting                     | Prompt Engineering |
-| 🤖 Introduction to Generative AI and Content Creation | Generative AI      |
-| 💡 Getting Started with Generative AI                 | Generative AI      |
-| 📝 Using Prompt Writing Techniques                    | Prompt Engineering |
-
----
-
-## 🌱 Currently Learning
+## `07` — github
 
 <div align="center">
 
-`DSA`   `Python`   `Problem Solving`   `AI`   `Data Science`
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=C4B5FD&icon_color=93C5FD&text_color=E5E7EB"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=transparent&hide_border=true&ring=C4B5FD&fire=93C5FD&currStreakLabel=C4B5FD"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `08` — a small reminder
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreeTech-0907&theme=react-dark&bg_color=0D0B10&color=FF4FA3&line=FF1493&point=FFFFFF&hide_border=true" />
+### ✦ learn something
 
-</div>
+### ✦ build something
 
----
+### ✦ keep going
 
-## 💻 Coding & Professional Profiles
+<br>
 
-<div align="center">
-
-<a href="https://github.com/DeviSreeTech-0907">
-<img src="https://img.shields.io/badge/GitHub-DeviSreeTech--0907-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/DeviSreeCodes/">
-<img src="https://img.shields.io/badge/LeetCode-DeviSreeCodes-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/devi-sree-m-797614379/">
-<img src="https://img.shields.io/badge/LinkedIn-Devi_Sree_M-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🎯 Developer Goals
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  💻 Become a skilled Software Developer      │
-│  🧠 Strengthen DSA & Problem Solving         │
-│  🐍 Improve Python Programming               │
-│  🚀 Build Real-World Projects                │
-│  🤖 Explore AI & Data Science                │
-│  📚 Keep Learning & Growing                  │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 💡 My Developer Mindset
-
-<div align="center">
-
-> **"Code. Learn. Build. Improve. Repeat."**
+`one step at a time.`
 
 </div>
 
@@ -217,12 +162,6 @@ Arunachala College of Engineering for Women
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=for-the-badge&color=FF1493&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-**Made with 💗 and code**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
 
 </div>
