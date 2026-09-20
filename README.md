@@ -26,12 +26,17 @@
 
 # `01` // WHO AM I?
 
-### 👋 Hi, I'm **Devi Sree M**
+
+### 👋 Hi, I'm DEVI SREE M
 
 💻 **Aspiring Software Developer**
+
 🎓 **Information Technology Student**
+
 🚀 **Passionate about building practical projects**
+
 🧩 **Interested in programming & problem solving**
+
 📚 **Continuously learning new technologies**
 
 ---
