@@ -1,128 +1,145 @@
 <div align="center">
 
-# DEVI SREE M
+# 👋 Hi, I'm Devi Sree M
 
-### Aspiring Software Developer
+### 💻 Aspiring Software Developer
 
-**Information Technology Student | Problem Solver | Project Builder**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DeviSreeTech-0907)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/DeviSreeCodes/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/devi-sree-m-797614379/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Learning+%7C+Building+%7C+Improving;Turning+Ideas+into+Projects+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## 🖤 About Me
 
-I am an Information Technology student and an aspiring software developer with an interest in programming, problem solving, and software development.
-
-I enjoy building practical projects, learning new technologies, and continuously improving my technical skills through hands-on practice.
-
-* 🎓 Information Technology Student
-* 💻 Aspiring Software Developer
-* 🧩 Interested in Problem Solving & DSA
-* 🚀 Building practical software projects
-* 📚 Continuously learning new technologies
+```text
+🎓 Information Technology Student
+💻 Aspiring Software Developer
+🚀 Passionate about building practical projects
+🧩 Improving problem-solving and programming skills
+📚 Continuously learning new technologies
+```
 
 ---
 
-## Technical Skills
+## ⚡ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,github,vscode" />
 
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Smart Student Academic Management System
+### 🎓 Smart Student Academic Management System
 
-A C-based academic management system designed to manage student records, marks, results, and class statistics.
+A C-based academic management system designed to manage:
 
-**Technologies:** C
+* 👨‍🎓 Student records
+* 📝 Marks
+* 📊 Results
+* 📈 Class statistics
+* 💾 Student data storage
 
----
-
-### StudyGenie
-
-An AI-powered learning project designed to assist students with study-related tasks.
-
-**Technologies:** Python, AI
+**Tech:** C
 
 ---
 
-### Interactive Student Survey Form
+### 🤖 StudyGenie
 
-A responsive web-based survey form designed to collect student information.
+An AI-powered learning project designed to assist students with study-related tasks and provide an interactive learning experience.
 
-**Technologies:** HTML, CSS
-
----
-
-### Blog Application
-
-A full-stack web application featuring authentication, blog management, CRUD operations, search, and category filtering.
-
-**Technologies:** JavaScript, Node.js, Express.js, MongoDB
+**Tech:** Python, AI
 
 ---
 
-## Achievements
+### 📝 Interactive Student Survey Form
 
-### Third Prize — Technical Paper Presentation
+A responsive web-based student survey form created to collect and organize student information.
+
+**Tech:** HTML, CSS
+
+---
+
+### 📰 Blog Application
+
+A full-stack web application with features including:
+
+* 🔐 User authentication
+* ✍️ Blog creation
+* 📖 Blog management
+* 🔄 CRUD operations
+* 🔎 Search
+* 🏷️ Category filtering
+
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+
+---
+
+## 🏆 Achievements
+
+### 🥉 Third Prize — Technical Competition: Paper Presentation
 
 **ZENDRIX 2K26**
 
 Department of Information Technology
 Arunachala College of Engineering for Women
 
+🏅 Recognized for technical knowledge, creativity, presentation skills, and dedication.
+
 ---
 
-## Certifications & Digital Credentials
+## 📜 Certifications & Digital Credentials
 
 ### IBM
 
-* Introduction to Cloud Computing
-* Foundations in Generative AI
-* Ethical Considerations for Generative AI
-* Introduction to Large Language Models
-* Mastering the Art of Prompting
-* Introduction to Generative AI and Content Creation
-* Getting Started with Generative AI
-* Using Prompt Writing Techniques to Craft a LinkedIn Profile
+* ☁️ Introduction to Cloud Computing
+* 🤖 Foundations in Generative AI
+* ⚖️ Ethical Considerations for Generative AI
+* 🧠 Introduction to Large Language Models
+* ✍️ Mastering the Art of Prompting
+* 🤖 Introduction to Generative AI and Content Creation
+* 💡 Getting Started with Generative AI
+* 📝 Using Prompt Writing Techniques to Craft a LinkedIn Profile
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* Python
-* Problem Solving
-* Artificial Intelligence
-* Data Science
-* Software Development
+```text
+▸ Data Structures & Algorithms
+▸ Python
+▸ Problem Solving
+▸ AI & Data Science
+▸ Software Development
+```
 
 ---
 
-## GitHub Statistics
+## 💻 Coding & Professional Profiles
+
+<div align="center">
+
+<a href="https://github.com/DeviSreeTech-0907">
+<img src="https://img.shields.io/badge/GitHub-DeviSreeTech--0907-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/DeviSreeCodes/">
+<img src="https://img.shields.io/badge/LeetCode-DeviSreeCodes-black?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/devi-sree-m-797614379/">
+<img src="https://img.shields.io/badge/LinkedIn-Devi_Sree_M-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -130,42 +147,61 @@ Arunachala College of Engineering for Women
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-## Professional Profiles
+## 📌 GitHub Activity
 
-| Platform | Profile                                                           |
-| -------- | ----------------------------------------------------------------- |
-| GitHub   | [DeviSreeTech-0907](https://github.com/DeviSreeTech-0907)         |
-| LeetCode | [DeviSreeCodes](https://leetcode.com/u/DeviSreeCodes/)            |
-| LinkedIn | [Devi Sree M](https://www.linkedin.com/in/devi-sree-m-797614379/) |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreeTech-0907&theme=github-compact&hide_border=true" />
+
+</div>
 
 ---
 
-## Career Focus
+## 🧑‍💻 Developer Journey
 
 ```text
-Software Development
-        ↓
-Programming & Problem Solving
-        ↓
-Data Structures & Algorithms
-        ↓
-Real-World Project Development
-        ↓
-Continuous Learning
+        LEARN
+          ↓
+        PRACTICE
+          ↓
+        BUILD
+          ↓
+        DEBUG
+          ↓
+        IMPROVE
+          ↓
+        REPEAT 🔁
+```
+
+I believe in continuously learning, building practical projects,
+and improving my technical and problem-solving skills.
+
+---
+
+## 🎯 Goals
+
+```text
+💻 Become a skilled Software Developer
+🧠 Strengthen Data Structures & Algorithms
+🐍 Improve Python programming
+🚀 Build meaningful real-world projects
+📚 Continue learning emerging technologies
 ```
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile.
+## 🖤 Thanks for Visiting My Profile!
 
-**Building skills. Building projects. Building my career.**
+### 💻 Learn • Build • Improve • Repeat 🚀
+
+<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=for-the-badge&color=black" alt="Profile Views" />
 
 </div>
