@@ -1,207 +1,312 @@
 <div align="center">
 
-# 👋 Hi, I'm Devi Sree M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=210&section=header&text=DEVI%20SREE%20M&fontSize=48&fontColor=E2E8F0&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=18&descColor=94A3B8"/>
 
-### 💻 Aspiring Software Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Learning+%7C+Building+%7C+Improving;Turning+Ideas+into+Projects+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+`INFORMATION TECHNOLOGY`  •  `SOFTWARE DEVELOPMENT`  •  `PROBLEM SOLVING`
 
 </div>
 
 ---
 
-## 🖤 About Me
+# `01` / PROFILE
 
-```text
-🎓 Information Technology Student
-💻 Aspiring Software Developer
-🚀 Passionate about building practical projects
-🧩 Improving problem-solving and programming skills
-📚 Continuously learning new technologies
-```
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 👋 Hello, I'm **Devi Sree M**
+
+I am an **Information Technology student** and an **Aspiring Software Developer** passionate about turning ideas into practical projects.
+
+I enjoy learning through hands-on development, solving programming problems, and continuously improving my technical skills.
+
+</td>
+
+<td width="35%" valign="top">
+
+### CURRENTLY
+
+🎓 IT Student
+
+💻 Software Development
+
+🧩 Problem Solving
+
+📚 Continuous Learning
+
+🚀 Project Building
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack
+# `02` / TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,github,vscode" />
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=c,python,java" />
+
+### WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# `03` / FEATURED PROJECTS
 
-### 🎓 Smart Student Academic Management System
+<table>
+<tr>
 
-A C-based academic management system designed to manage:
+<td width="50%" valign="top">
+
+## 🎓 Smart Student Academic Management System
+
+A C-based academic management system designed to manage student information and academic performance.
+
+**FEATURES**
 
 * 👨‍🎓 Student records
-* 📝 Marks
-* 📊 Results
+* 📝 Marks management
+* 📊 Result calculation
 * 📈 Class statistics
-* 💾 Student data storage
+* 💾 Data storage
 
-**Tech:** C
+`C`
 
----
+</td>
 
-### 🤖 StudyGenie
+<td width="50%" valign="top">
+
+## 🤖 StudyGenie
 
 An AI-powered learning project designed to assist students with study-related tasks and provide an interactive learning experience.
 
-**Tech:** Python, AI
+**FOCUS**
 
----
+* 📚 Learning assistance
+* 🤖 AI interaction
+* 💡 Student support
 
-### 📝 Interactive Student Survey Form
+`Python` `AI`
 
-A responsive web-based student survey form created to collect and organize student information.
+</td>
 
-**Tech:** HTML, CSS
+</tr>
 
----
+<tr>
 
-### 📰 Blog Application
+<td width="50%" valign="top">
 
-A full-stack web application with features including:
+## 📝 Interactive Student Survey Form
 
-* 🔐 User authentication
+A responsive web-based survey form created to collect and organize student information.
+
+**FOCUS**
+
+* 📋 Student data collection
+* 🖥️ Responsive interface
+* ✨ Interactive form
+
+`HTML` `CSS`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📰 Blog Application
+
+A full-stack web application designed for creating and managing blog content.
+
+**FEATURES**
+
+* 🔐 Authentication
 * ✍️ Blog creation
-* 📖 Blog management
 * 🔄 CRUD operations
 * 🔎 Search
 * 🏷️ Category filtering
 
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+`JavaScript` `Node.js` `Express.js` `MongoDB`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+# `04` / ACHIEVEMENT
 
-### 🥉 Third Prize — Technical Competition: Paper Presentation
+<div align="center">
+
+## 🥉 THIRD PRIZE
+
+### Technical Competition — Paper Presentation
 
 **ZENDRIX 2K26**
 
 Department of Information Technology
 Arunachala College of Engineering for Women
 
-🏅 Recognized for technical knowledge, creativity, presentation skills, and dedication.
+<br>
+
+`TECHNICAL KNOWLEDGE` • `PRESENTATION` • `CREATIVITY`
+
+</div>
 
 ---
 
-## 📜 Certifications & Digital Credentials
+# `05` / CERTIFICATIONS
 
-### IBM
+### IBM — Technical Learning
 
-* ☁️ Introduction to Cloud Computing
-* 🤖 Foundations in Generative AI
-* ⚖️ Ethical Considerations for Generative AI
-* 🧠 Introduction to Large Language Models
-* ✍️ Mastering the Art of Prompting
-* 🤖 Introduction to Generative AI and Content Creation
-* 💡 Getting Started with Generative AI
-* 📝 Using Prompt Writing Techniques to Craft a LinkedIn Profile
-
----
-
-## 🌱 Currently Learning
-
-```text
-▸ Data Structures & Algorithms
-▸ Python
-▸ Problem Solving
-▸ AI & Data Science
-▸ Software Development
-```
+| Certification                                                  | Domain             |
+| :------------------------------------------------------------- | :----------------- |
+| ☁️ Introduction to Cloud Computing                             | Cloud              |
+| 🤖 Foundations in Generative AI                                | Generative AI      |
+| ⚖️ Ethical Considerations for Generative AI                    | AI Ethics          |
+| 🧠 Introduction to Large Language Models                       | LLM                |
+| ✍️ Mastering the Art of Prompting                              | Prompt Engineering |
+| 🤖 Introduction to Generative AI and Content Creation          | Generative AI      |
+| 💡 Getting Started with Generative AI                          | Generative AI      |
+| 📝 Using Prompt Writing Techniques to Craft a LinkedIn Profile | Prompt Engineering |
 
 ---
 
-## 💻 Coding & Professional Profiles
+# `06` / CURRENTLY LEARNING
+
+<div align="center">
+
+| DSA | Python | Problem Solving |
+| :-: | :----: | :-------------: |
+|  🧠 |   🐍   |        🧩       |
+
+|  AI | Data Science | Software Development |
+| :-: | :----------: | :------------------: |
+|  🤖 |      📊      |          💻          |
+
+</div>
+
+---
+
+# `07` / CODING & PROFESSIONAL PROFILES
 
 <div align="center">
 
 <a href="https://github.com/DeviSreeTech-0907">
-<img src="https://img.shields.io/badge/GitHub-DeviSreeTech--0907-black?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://leetcode.com/u/DeviSreeCodes/">
-<img src="https://img.shields.io/badge/LeetCode-DeviSreeCodes-black?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/devi-sree-m-797614379/">
-<img src="https://img.shields.io/badge/LinkedIn-Devi_Sree_M-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# `08` / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=dark&hide_border=true&background=0F172A&ring=60A5FA&fire=38BDF8&currStreakLabel=E2E8F0"/>
 
 </div>
 
 ---
 
-## 📌 GitHub Activity
+# `09` / DEVELOPMENT FLOW
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreeTech-0907&theme=github-compact&hide_border=true" />
+```text
+┌──────────┐
+│   LEARN  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ PRACTICE │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  BUILD   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  DEBUG   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ IMPROVE  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  REPEAT  │
+└──────────┘
+```
 
 </div>
-
----
-
-## 🧑‍💻 Developer Journey
-
-```text
-        LEARN
-          ↓
-        PRACTICE
-          ↓
-        BUILD
-          ↓
-        DEBUG
-          ↓
-        IMPROVE
-          ↓
-        REPEAT 🔁
-```
 
 I believe in continuously learning, building practical projects,
 and improving my technical and problem-solving skills.
 
 ---
 
-## 🎯 Goals
+# `10` / CAREER GOALS
 
 ```text
-💻 Become a skilled Software Developer
-🧠 Strengthen Data Structures & Algorithms
-🐍 Improve Python programming
-🚀 Build meaningful real-world projects
-📚 Continue learning emerging technologies
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  💻  Become a skilled Software Developer           │
+│                                                    │
+│  🧠  Strengthen Data Structures & Algorithms       │
+│                                                    │
+│  🐍  Improve Python Programming                    │
+│                                                    │
+│  🚀  Build meaningful real-world projects         │
+│                                                    │
+│  📚  Continue learning emerging technologies       │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-## 🖤 Thanks for Visiting My Profile!
+### `BUILDING SKILLS → BUILDING PROJECTS → BUILDING THE FUTURE`
 
-### 💻 Learn • Build • Improve • Repeat 🚀
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=for-the-badge&color=black" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=flat-square&color=334155&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+**Thanks for visiting my profile.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
