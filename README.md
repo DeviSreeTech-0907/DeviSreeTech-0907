@@ -1,22 +1,10 @@
 <div align="center">
 
-DEVELOPER PROFILE
-
-DEVI SREE M
-Aspiring Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Devi+Sree+M+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Building+Projects+%F0%9F%9A%80;Solving+Problems+%F0%9F%A7%A9;Learning+Python+%26+DSA+%F0%9F%90%8D;Exploring+AI+%26+Data+Science+%F0%9F%A4%96" alt="Typing Animation"/>
 
 <br>
 
-🎓 FIELD	💻 FOCUS	🚀 APPROACH
-Information Technology	Software Development	Learn → Build → Improve
-
-<br>
-
-C · Python · Java · HTML · CSS
-
-<br>
-
-Currently: Building projects • Practicing DSA • Exploring AI
+LEARN ✦ CODE ✦ BUILD ✦ IMPROVE
 
 </div>
 
