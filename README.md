@@ -1,42 +1,46 @@
 <div align="center">
 
-# 💜 DEVI SREE M
+# 🌸 DEVI SREE M
 
 ### `Aspiring Software Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;Building+%7C+Learning+%7C+Improving;Turning+Ideas+into+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=700&lines=Hey%2C+Welcome+to+my+GitHub!;Aspiring+Software+Developer;Code+%7C+Create+%7C+Learn;Turning+Ideas+into+Projects+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Code-Purple%20Mode-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-Every%20Day-A855F7?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Building-Projects-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-FF4FA3?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Building-FF69B4?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </div>
 
 ---
 
-## 💜 About Me
+## 🌸 About Me
 
 ```text
-🎓 Information Technology Student
-💻 Aspiring Software Developer
-🚀 Building practical projects
-🧠 Improving problem-solving skills
-📚 Exploring new technologies
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🎓 Information Technology Student          │
+│  💻 Aspiring Software Developer              │
+│  🚀 Building practical projects              │
+│  🧠 Improving problem-solving skills         │
+│  📚 Learning and exploring new technologies  │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-### 💻 Programming
+### 👩‍💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,python,java" />
 
-### 🌐 Web
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
@@ -144,11 +148,11 @@ Arunachala College of Engineering for Women
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeviSreeTech-0907&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreeTech-0907&theme=radical&hide_border=true" />
 
 </div>
 
@@ -158,7 +162,7 @@ Arunachala College of Engineering for Women
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreeTech-0907&theme=react-dark&bg_color=0D0B14&color=C084FC&line=A855F7&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreeTech-0907&theme=react-dark&bg_color=0D0B10&color=FF4FA3&line=FF1493&point=FFFFFF&hide_border=true" />
 
 </div>
 
@@ -169,15 +173,15 @@ Arunachala College of Engineering for Women
 <div align="center">
 
 <a href="https://github.com/DeviSreeTech-0907">
-<img src="https://img.shields.io/badge/GitHub-DeviSreeTech--0907-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DeviSreeTech--0907-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/DeviSreeCodes/">
-<img src="https://img.shields.io/badge/LeetCode-DeviSreeCodes-A855F7?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-DeviSreeCodes-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/devi-sree-m-797614379/">
-<img src="https://img.shields.io/badge/LinkedIn-Devi_Sree_M-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Devi_Sree_M-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -187,24 +191,38 @@ Arunachala College of Engineering for Women
 ## 🎯 Developer Goals
 
 ```text
-╭──────────────────────────────────────────╮
-│                                          │
-│  💻 Become a skilled Software Developer  │
-│  🧠 Strengthen DSA & Problem Solving     │
-│  🐍 Improve Python Programming           │
-│  🚀 Build Real-World Projects            │
-│  🤖 Explore AI & Data Science            │
-│  📚 Keep Learning & Growing              │
-│                                          │
-╰──────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│                                              │
+│  💻 Become a skilled Software Developer      │
+│  🧠 Strengthen DSA & Problem Solving         │
+│  🐍 Improve Python Programming               │
+│  🚀 Build Real-World Projects                │
+│  🤖 Explore AI & Data Science                │
+│  📚 Keep Learning & Growing                  │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
+
+---
+
+## 💡 My Developer Mindset
+
+<div align="center">
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💜 Learn. Build. Improve. Repeat. 🚀
+### 🌸 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=DeviSreeTech-0907&style=for-the-badge&color=FF1493&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+**Made with 💗 and code**
 
 </div>
